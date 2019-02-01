@@ -1,4 +1,4 @@
 models/
-data/*
+#data/*
 
 !data/test.pdf
